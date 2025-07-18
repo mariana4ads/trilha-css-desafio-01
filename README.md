@@ -15,7 +15,7 @@ Construção de uma landing page com HTML e CSS, baseada em um protótipo do Fig
     </td>
     <td>
       <p align="left"> Adicionei um arquivo <code>responsive.css</code> para tornar a landing page responsiva.<br/>
-        Antes, ela não se adaptava bem em telas menores, agora está funcionando direitinho no celular!
+        Antes, ela não se adaptava bem em telas menores, agora está funcionando muito bem na "versão mobile".
       </p>
     </td>
   </tr>
@@ -23,6 +23,5 @@ Construção de uma landing page com HTML e CSS, baseada em um protótipo do Fig
 
 ## 🔗 Links
 
-- [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6)
-
-- [Deploy do desafio](https://mariana4ads.github.io/trilha-css-desafio-01/)
+- Resultado: [trilha-css-desafio-01](https://mariana4ads.github.io/trilha-css-desafio-01/)
+- Base: [link do figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6)
