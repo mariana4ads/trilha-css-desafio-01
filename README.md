@@ -25,4 +25,4 @@ Construção de uma landing page com HTML e CSS, baseada em um protótipo do Fig
 
 - [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6)
 
-- [Deploy do desafio](https://mariana4ads.github.io/trilha-css-desafio-01/)git 
+- [Deploy do desafio](https://mariana4ads.github.io/trilha-css-desafio-01/)
