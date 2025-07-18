@@ -1,0 +1,47 @@
+@media (max-width: 570px) {
+  .modules-list .module {
+    font-size: 14px;
+    padding: 16px 20px;
+  }
+
+  #transform-world p {
+    margin: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo {
+    width: 200px;
+    height: 200px;
+  }
+
+  .logo img {
+    height: 160px;
+  }
+
+  .banner-content h1 {
+    text-align: center;
+  }
+
+  .banner-content button {
+    padding: 16px 20px;
+  }
+
+  #course-content {
+    height: 600px;
+  }
+
+  #course-content h2 {
+    text-align: center;
+  }
+
+  .modules-list .module {
+    padding: 16px 12px;
+  }
+
+  #transform-world {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+  }
+}
